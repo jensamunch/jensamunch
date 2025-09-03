@@ -10,6 +10,7 @@ Notable achievements during that time:
 A long time ago I studied PPE at Oxford University and Philosophy at the American University of Beirut. Today I live with my family in London, and am  incubating several new projects.
 
 - 📫 How to reach me: jens.a.munch@gmail.com / +447826911401 (Signal / Whatsapp)
+
 [Website with links](https://www.jensmunch.com)
 
 <!--
