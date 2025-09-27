@@ -1,6 +1,6 @@
 ## Quick overview
 
-Since 2007 I've worked in technology as a strategist, entrepreneur, and investor. 
+Since 2007 I've worked in technology as a entrepreneur, strategist, and investor. 
 
 Notable achievements during that time: 
 - 💵 Launching Google Shopping in the UK with 60% of total E-commerce
